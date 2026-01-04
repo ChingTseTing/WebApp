@@ -6,6 +6,5 @@ torchvision
 SpeechRecognition
 streamlit-drawable-canvas
 streamlit-webrtc
-sounddevice
 av
 aiortc

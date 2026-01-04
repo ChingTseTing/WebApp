@@ -1,8 +1,11 @@
 streamlit>=1.30
-torch
-opencv-python-headless
 numpy
+opencv-python-headless
+torch
+torchvision
 SpeechRecognition
 streamlit-drawable-canvas
 streamlit-webrtc
 sounddevice
+av
+aiortc
